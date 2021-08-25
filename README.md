@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ogtaste
 - 👀 I’m interested in data journalism and huge In-N-Out burgers.
-- 🌱 I’m currently learning Python, JS/CSS/HTML, scraping, geospatial analysis, and R.
+- 🌱 Python, JS/CSS/HTML, scraping, GIS (Q and Arc), R, Mapbox/Leaflet
 - 💞️ I’m looking to collaborate on data-driven criminal justice reporting.
 
 <!---
